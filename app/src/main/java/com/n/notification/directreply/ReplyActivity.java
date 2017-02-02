@@ -1,4 +1,4 @@
-package com.segunfamisa.notification.directreply;
+package com.n.notification.directreply;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
-import static com.segunfamisa.notification.directreply.NotificationService.REPLY_ACTION;
+import static com.n.notification.directreply.NotificationService.REPLY_ACTION;
 
 public class ReplyActivity extends AppCompatActivity {
 

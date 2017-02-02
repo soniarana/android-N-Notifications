@@ -10,7 +10,7 @@
     android:paddingTop="45dp"
     android:background="@color/windowBackground"
     android:gravity="center"
-    tools:context="com.segunfamisa.notification.directreply.ReplyActivity">
+    tools:context="com.n.notification.directreply.ReplyActivity">
 
     <EditText
         android:id="@+id/edit_reply"

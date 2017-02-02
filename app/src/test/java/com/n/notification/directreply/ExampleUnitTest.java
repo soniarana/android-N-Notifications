@@ -1,4 +1,4 @@
-package com.segunfamisa.notification.directreply;
+package com.n.notification.directreply;
 
 import org.junit.Test;
 

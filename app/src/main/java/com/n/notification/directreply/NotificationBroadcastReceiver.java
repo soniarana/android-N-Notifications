@@ -1,4 +1,4 @@
-package com.segunfamisa.notification.directreply;
+package com.n.notification.directreply;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -7,7 +7,7 @@ import android.support.v4.app.NotificationCompat;
 import android.support.v4.app.NotificationManagerCompat;
 import android.widget.Toast;
 
-import static com.segunfamisa.notification.directreply.NotificationService.REPLY_ACTION;
+import static com.n.notification.directreply.NotificationService.REPLY_ACTION;
 
 public class NotificationBroadcastReceiver extends BroadcastReceiver {
     private static String KEY_NOTIFICATION_ID = "key_noticiation_id";

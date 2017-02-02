@@ -1,4 +1,4 @@
-package com.segunfamisa.notification.directreply;
+package com.n.notification.directreply;
 
 import android.app.IntentService;
 import android.app.PendingIntent;
@@ -16,7 +16,7 @@ import android.support.v4.app.RemoteInput;
  * <p>
  */
 public class NotificationService extends IntentService {
-    public static String REPLY_ACTION = "com.segunfamisa.notification.directreply.REPLY_ACTION";
+    public static String REPLY_ACTION = "com.n.notification.directreply.REPLY_ACTION";
     private static String KEY_REPLY = "key_reply_message";
 
     private int mNotificationId;

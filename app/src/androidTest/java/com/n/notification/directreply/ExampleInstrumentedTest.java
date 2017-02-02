@@ -1,4 +1,4 @@
-package com.segunfamisa.notification.directreply;
+package com.n.notification.directreply;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
